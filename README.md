@@ -4,7 +4,7 @@
 https://colab.research.google.com/drive/1RVsDvPBU1kCpSTLTXFmqREimPc0dxIHZ?usp=sharing
 
 ### Видео URL
-=
+https://disk.yandex.ru/d/5ERxDjFz7d07sg
 
 ### Описание проекта
 
